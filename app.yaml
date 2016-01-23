@@ -1,4 +1,4 @@
-application: hacky-slack
+application: dice-b
 version: 2
 runtime: go
 api_version: go1
